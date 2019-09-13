@@ -1,0 +1,19 @@
+{
+  "name": "bok1",
+  "version": "1.0.0",
+  "description": "yes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bok1"
+  ],
+  "author": "Kevin Ildevik",
+  "license": "ISC",
+  "dependencies": {
+    "csvjson": "^5.1.0",
+    "csvtojson": "^2.0.10"
+  },
+  "devDependencies": {}
+}
